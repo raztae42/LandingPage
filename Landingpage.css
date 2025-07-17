@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: border-box;
+}
+
+.container-box {
+    display: flex;
+}
+.func1 {
+    border: 2px solid black;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.box_1 {
+    border: 2px solid red;
+}
