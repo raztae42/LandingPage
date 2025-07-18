@@ -4,16 +4,20 @@
     display: border-box;
 }
 
+.head {
+    border: 2px solid red;
+}
+
 .container-box {
     display: flex;
 }
-.func1 {
+.func1, .func2 {
     border: 2px solid black;
     width: 25px;
     height: 25px;
     text-align: center;
 }
 
-.box_1 {
+.box_1, .box_2 {
     border: 2px solid red;
 }
